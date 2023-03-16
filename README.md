@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Sam! <br/> <a href="https://www.linkedin.com/in/sameer-insanali/">Aspiring Cybersecurity Professional</a> </h1>
 
-<!--
-**SInsanali/SInsanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Cybersecurity projects: </h2>
 
-Here are some ideas to get you started:
+- [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- <b>Blank</b>
+- <b>Blank</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Home Network Projects </h2>
+
+- [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Blank</b>
+- <b>Blank</b>
+
+<h2>Certifications</h2>
+
+- [Comptia Security+ ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
+
