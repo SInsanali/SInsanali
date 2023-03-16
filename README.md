@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity projects: </h2>
 
-- [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- [Active Directory Home Lab](https://github.com/SInsanali/ActiveDirectoryLab)
 - <b>Blank</b>
 - <b>Blank</b>
 
