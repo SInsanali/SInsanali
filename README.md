@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam! <br/> <a href="https://www.linkedin.com/in/sameer-insanali/">Aspiring Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Sam! <br/> <a href="https://www.linkedin.com/in/sameer-insanali/"></a> </h1>
 
 <h2>Cybersecurity projects: </h2>
 
