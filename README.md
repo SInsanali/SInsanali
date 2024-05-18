@@ -9,12 +9,12 @@
 
 
 <h2>Certifications</h2>
-- [Comptia PenTest+ ](https://imgur.com/y6SErOX)
-- [Comptia CySA+ ](https://imgur.com/2C4BigE)
-- [Comptia Security+ ](https://imgur.com/bxf3qOa)
-- [Comptia Network+ ])https://imgur.com/Ng4ybo3)
-- [Comptia A+ ](https://imgur.com/NyFqrJw)
--
-
+- [Comptia PenTest+](https://imgur.com/y6SErOX)
+- [Comptia CySA+](https://imgur.com/2C4BigE)
+- [Comptia Security+](https://imgur.com/bxf3qOa)
+- [Comptia Network+])https://imgur.com/Ng4ybo3)
+- [Comptia A+](https://imgur.com/NyFqrJw)
+- [LPI Linux Essentials](https://imgur.com/5xFyQxz)
+- [ITIL v4](https://imgur.com/nlnpWhu)
 
 
