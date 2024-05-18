@@ -6,11 +6,6 @@
 - <b>Blank</b>
 - <b>Blank</b>
 
-<h2>Home Network Projects </h2>
-
-- [TBD!](https://github.com/joshmadakor1/ffff)
-- <b>Blank</b>
-- <b>Blank</b>
 
 <h2>Certifications</h2>
 
