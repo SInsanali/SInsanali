@@ -15,4 +15,5 @@
     <li><a href="https://imgur.com/NyFqrJw">Comptia A+</a></li>
     <li><a href="https://imgur.com/5xFyQxz">LPI Linux Essentials</a></li>
     <li><a href="https://imgur.com/nlnpWhu">ITIL v4</a></li>
+    <li><a href="https://imgur.com/TVKJdMw">ISC² SSCP</a></li>
 </ul>
