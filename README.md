@@ -3,8 +3,8 @@
 <h2>Python projects: </h2>
 
 - [Python Projects](https://github.com/SInsanali/Python-Projects.git)
-- <b>Blank</b>
-- <b>Blank</b>
+- <b>[Bash scripting](https://github.com/SInsanali/Python-Projects.git)</b>
+- <b></b>
 
 <h2>Certifications</h2>
 <ul>
