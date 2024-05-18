@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sam! <br/> <a href="https://www.linkedin.com/in/sameer-insanali/">LinkedIn</a> </h1>
 
-<h2>Python projects: </h2>
+<h2>Some of my favorite things to work on </h2>
 
 - [Python Projects](https://github.com/SInsanali/Python-Projects.git)
 - <b>[Bash scripting](https://github.com/SInsanali/Python-Projects.git)</b>
