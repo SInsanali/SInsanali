@@ -2,7 +2,7 @@
 
 <h2>Python projects: </h2>
 
-- [Active Directory Home Lab](https://github.com/SInsanali/ActiveDirectoryLab)
+- [Python Projects](https://github.com/SInsanali/Python-Projects.git)
 - <b>Blank</b>
 - <b>Blank</b>
 
