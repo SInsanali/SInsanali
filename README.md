@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam! Connect with me on href="https://www.linkedin.com/in/sameer-insanali/">LinkedIn </h1>
+<h1>Hi, I'm Sam! <br/> Connect with me on href="https://www.linkedin.com/in/sameer-insanali/">LinkedIn </h1>
 
 <h2>Some of my favorite things to work on </h2>
 
