@@ -6,7 +6,7 @@
 - <b>[Bash scripting](https://github.com/SInsanali/BASH)</b>
 
 
-<h2>Certifications</h2>
+<h2>Achieved Cybersecurity Certifications</h2>
 <ul>
     <li><a href="https://imgur.com/y6SErOX">Comptia PenTest+</a></li>
     <li><a href="https://imgur.com/2C4BigE">Comptia CySA+</a></li>
