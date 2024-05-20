@@ -4,7 +4,7 @@
 
 - [Python Projects](https://github.com/SInsanali/Python-Projects)
 - <b>[Bash scripting](https://github.com/SInsanali/Python-Projects.git)</b>
-- <b></b>
+
 
 <h2>Certifications</h2>
 <ul>
