@@ -2,7 +2,7 @@
 
 <h2>Some of my favorite things to work on </h2>
 
-- [Python Projects](https://github.com/SInsanali/Python-Projects)
+- <b>[Python Projects](https://github.com/SInsanali/Python-Projects)</b>
 - <b>[Bash scripting](https://github.com/SInsanali/BASH)</b>
 
 
