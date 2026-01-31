@@ -6,7 +6,6 @@
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 
-> Im just a regular guy working in cybersecurity, building tools and sharing projects. Always working on learning something new.
 ---
 
 ##  Current Projects
