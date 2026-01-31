@@ -11,8 +11,8 @@
 ##  Current Projects
 
 - ⏰ **[Pomoflow](https://github.com/SInsanali/pomoflow)** - Minimalist Pomodoro timer with some prety cool customization features
-- 🐍 **[ViperSSH](https://github.com/SInsanali/viperssh)** - Python TUI SSH tool
-- 📥 **[MediaHarvester](https://github.com/SInsanali/mediaharvester)** - Beginner friendly video downloading in mp3/mp4 format
+- 🐍 **[ViperSSH](https://github.com/SInsanali/viperssh)** - Python TUI SSH tool, saves environments and hostnames, keeps sessions alive 
+- 📥 **[MediaHarvester](https://github.com/SInsanali/mediaharvester)** - Beginner friendly video downloading tool, outputs mp3/mp4 format
   
 
 ---
