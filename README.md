@@ -18,7 +18,7 @@
 
 ---
 
-## Other Projects
+## Legacy Projects
 
 - 🐍 **[100 Days of Python](https://github.com/SInsanali/100_days_of_python)** - Daily Python learning journey and exercises
 - 🐥 **[Python Learning](https://github.com/SInsanali/Python_Learning)** - Beginner Python projects
