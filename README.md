@@ -8,7 +8,7 @@
 
 ---
 
-##  Current Projects
+## Projects
 
 - ⏰ **[Pomoflow](https://github.com/SInsanali/pomoflow)** - Minimalist Pomodoro timer with some prety cool customization features
 - 🐍 **[ViperSSH](https://github.com/SInsanali/viperssh)** - Python TUI SSH tool, saves environments and hostnames, keeps sessions alive 
@@ -26,5 +26,5 @@
 - 🛡️ **[Security Tools](https://github.com/SInsanali/Security-Tools)** - Various security tools and utilities
 ---
 
-## 📫 Connect on LinkedIn
+## Connect on LinkedIn
 [![LinkedIn](https://img.shields.io/badge/-sameer--insanali-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-insanali)
