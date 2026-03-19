@@ -9,7 +9,7 @@
 ---
 
 ## Projects
-
+- 🛩️ **[Skywatch](https://github.com/SInsanali/skywatch)** - Self-hosted flight tracker with live map, and global coverage.
 - ⏰ **[Pomoflow](https://github.com/SInsanali/pomoflow)** - Minimalist Pomodoro timer with some prety cool customization features
 - 🐍 **[ViperSSH](https://github.com/SInsanali/viperssh)** - Python TUI SSH tool, saves environments and hostnames, keeps sessions alive 
 - 📥 **[MediaHarvester](https://github.com/SInsanali/mediaharvester)** - Beginner friendly video downloading tool, outputs mp3/mp4 format
