@@ -12,14 +12,14 @@
 - 🛩️ **[Skywatch](https://github.com/SInsanali/skywatch)** - Self-hosted flight tracker with live map, and global coverage.
 - ⏰ **[Pomoflow](https://github.com/SInsanali/pomoflow)** - Minimalist Pomodoro timer with some prety cool customization features
 - 🐍 **[ViperSSH](https://github.com/SInsanali/viperssh)** - Python TUI SSH tool, saves environments and hostnames, keeps sessions alive 
-- 📥 **[MediaHarvester](https://github.com/SInsanali/mediaharvester)** - Beginner friendly video downloading tool, outputs mp3/mp4 format
-- 🔗 **[Hotspot Data Tracker](https://github.com/SInsanali/hotspot-data-tracker)** - Track and visualize your hotspot data consumption on macOS
-  
 
+  
 ---
 
 ## Legacy Projects
 
+- 📥 **[MediaHarvester](https://github.com/SInsanali/mediaharvester)** - Beginner friendly video downloading tool, outputs mp3/mp4 format
+- 🔗 **[Hotspot Data Tracker](https://github.com/SInsanali/hotspot-data-tracker)** - Track and visualize your hotspot data consumption on macOS
 - 🐍 **[100 Days of Python](https://github.com/SInsanali/100_days_of_python)** - Daily Python learning journey and exercises
 - 🐥 **[Python Learning](https://github.com/SInsanali/Python_Learning)** - Beginner Python projects
 - 🐚 **[BASH](https://github.com/SInsanali/BASH)** - All things bash scripting
